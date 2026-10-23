@@ -1,0 +1,6 @@
+{
+  "name": "NATIVE HAVEN Fashion Zone",
+  "description": "Celebrating African fashion in traditional and modern style. Luxury bespoke tailoring, traditional couture, and modern fusion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
